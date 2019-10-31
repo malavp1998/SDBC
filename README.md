@@ -1,0 +1,2 @@
+# SDBC
+Student inventory management
